@@ -1,0 +1,40 @@
+.men{
+    height: 200px;
+    width: 200px;
+    background-image: url(https://img-fotki.yandex.ru/get/16130/214291281.65/0_1392fc_6e79a609_orig.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 5px dashed blueviolet;
+    border-radius: 50%;
+    float: left;
+    color: azure
+      }
+   .card{
+    width: 400px;
+    height: 300px;
+    border: 1px solid brown;
+    background-color: beige;
+   }
+   .card-info{
+    float: right;
+   }
+   .square {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    }
+   #red { background: red;}
+   #green{ background: green;
+        }
+   #blue{ background: blue;
+
+}
+   #orange{ background: orange;
+}
+   #pink{background: pink;}
+   .squares{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ 

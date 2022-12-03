@@ -1,0 +1,18 @@
+a {
+    font-size: 24px;
+    margin-right: 20px;
+    color:red
+}
+a:link {
+    color:blue
+}
+a:visited{
+    color:green
+}
+a:hover{
+    color: orange;
+}
+a:active{
+    background-color: blueviolet;
+}
+a:focus{background-color: aquamarine;}

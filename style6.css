@@ -1,0 +1,14 @@
+p {
+    font-size: 1rem;
+    font-weight: 400;
+    font-style: italic;
+    color:black ;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    font-size: 24px;
+}
+span { background-color: red;color: white;}

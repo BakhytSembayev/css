@@ -1,0 +1,13 @@
+div {
+    height: 300px;
+    width: 300px;
+    border: 10px solid orange;
+    padding:10px 20px 30px 40px;
+    margin:10px 20px 30px 40px;
+    background-image: url(https://img.dasreda.ru/photo-data/fdcc3ced-8dbd-4c08-9039-b101a30e25ce/shutterstock_1591484734.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 5px dashed blueviolet;
+    border-radius: 50%;
+    
+}

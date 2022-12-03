@@ -1,0 +1,35 @@
+* {background:whitesmoke;}
+h1 {font-size: 40px;}
+.image {height: 400px;
+    width: 1000px;
+    background-image: url(https://www.techinsider.ru/upload/custom/e01/e01f454112c7345f6d584e8b32382af4.jpg);
+    margin-left: 30px;
+    border-radius: 20px 20px 20px 20px;
+}
+h2 {color: cyan; background: #FF471E;width: 1000px;height: 40px;padding: 5px 10px 20px 10px; margin: 20px 40px 30px 3px;font-size: 30px;}
+div { padding-left: 30px;}
+.shape-color {background-color: red; color: white;padding: 4px 6px 8px 10px;border-radius: 10px;text-decoration: none;}
+#second {color: blue;font-style: italic;font-size: 21px;}
+a:hover {
+    color: black;
+}
+a:active{
+    color: rgb(93, 219, 93);
+}
+.center{text-align: center;}
+.image2 {height: 400px;
+    width: 1000px;
+    background-image: url(https://cdn.tvc.ru/pictures/o/494/792.jpg);
+    margin:10px 10px 10px 30px;
+    border-radius: 20px 20px 20px 20px;
+    background-size: 100% ;
+    background-position-y: -30px;
+   }
+   .image3 {height: 400px;
+    width: 1000px;
+    background-image: url(https://www.jdplc.com/sites/jd-sportsfashion-plc/files/styles/desktop/public/Sport%20Fashion%201.jpg?itok=FyMvcsa4);
+    margin:10px 10px 10px 30px;
+    border-radius: 20px 20px 20px 20px;
+    background-size: cover ;
+    background-position-y: -90px;
+   }

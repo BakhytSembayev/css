@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+* {background:whitesmoke;}
+.text {
+    font-family: 'Montserrat', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+.text1 {font-family: 'Roboto Mono', monospace;
+}
+h1 {font-size: 40px;
+    text-align: center;
+    color:brown;
+    
+    }
+h1:hover {
+    background-color: yellow;
+    width: 500px;
+    border-radius: 10px 10px 10px 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+.text2{
+    font-family: 'Caveat', cursive; 
+    font-size: 15px;
+}
+.image {height: 200px;
+    width: 410px;
+    background-image: url(https://www.techinsider.ru/upload/custom/e01/e01f454112c7345f6d584e8b32382af4.jpg);
+    background-size: 100%;
+    border-radius: 10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;
+}
+
+
+h2 {color: cyan; background: #FF471E;width: 400px;height: 40px;padding: 5px 10px 10px 10px; margin: 10px 10px 10px 3px;font-size: 25px;}
+h2:hover {
+background-color: blue;
+color: yellow;
+border-radius: 10px 10px 10px 10px;
+text-align: center;
+}
+h2:active {
+    background-color:blueviolet;
+color:bisque;
+}
+div { padding-left: 10px;}
+.shape-color {background-color: red; color: white;padding: 4px 6px 8px 0px;border-radius: 10px;text-decoration: none;}
+
+a:hover {
+    background-color:green;
+    color: yellow;padding:10px 10px 10px 10px;margin: 10px 10px;
+}
+a:active{
+    background-color: blueviolet;
+    color: cyan;
+}
+
+a:focus{
+    background-color: rgb(15, 75, 75);
+}
+.center{text-align: center;}
+.image2 {height: 200px;
+    width: 410px;
+    background-image: url(https://cdn.tvc.ru/pictures/o/494/792.jpg);
+    margin:10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background-size: 100% ;
+    background-position-y: -30px;
+   }
+   .image3 {height: 200px;
+    width: 410px;
+    background-image: url(https://www.jdplc.com/sites/jd-sportsfashion-plc/files/styles/desktop/public/Sport%20Fashion%201.jpg?itok=FyMvcsa4);
+    margin:10px 10px 10px 10px;
+    border-radius: 20px 20px 20px 20px;
+    background-size: 100% ;
+    background-position-y: -30px;
+   }
+   .image4 {height: 200px;
+    width: 410px;
+    background-image: url(https://i.ytimg.com/vi/mwFb8bFHkm0/maxresdefault.jpg);
+    background-size: cover;
+    border-radius: 10px 10px 10px 10px;
+    margin:10px 10px 10px 10px;}
+   .squares {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   }
+  
